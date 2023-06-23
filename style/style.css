@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background: lavender;
+}
+
+footer a {
+  display: block;
+  margin: 0 10px;
+  padding-top: 30px;
+}
