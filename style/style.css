@@ -3,8 +3,9 @@ body {
   background: lavender;
 }
 
+footer {
+  padding-top: 50px;
+}
 footer a {
-  display: block;
-  margin: 0 10px;
-  padding-top: 30px;
+  margin: 0 13px;
 }
